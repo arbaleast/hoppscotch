@@ -222,16 +222,6 @@ _Add-ons are developed and maintained under **[Hoppscotch Organization](https://
 - Set environment variables
 - Write JavaScript code
 
-🌱 **Environments** : Environment variables allow you to store and reuse values in your requests and scripts.
-
-- Unlimited environments and variables
-- Initialize through the pre-request script
-- Export as / import from GitHub gist
-
-<details>
-  <summary><i>Use-cases</i></summary>
-
----
 
 - By storing a value in a variable, you can reference it throughout your request section
 - If you need to update the value, you only have to change it in one place
